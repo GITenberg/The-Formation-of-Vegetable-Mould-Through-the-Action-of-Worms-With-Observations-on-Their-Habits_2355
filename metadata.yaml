@@ -1,0 +1,27 @@
+_repo: The-Formation-of-Vegetable-Mould-Through-the-Action-of-Worms-With-Observations-on-Their-Habits_2355
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: ''
+gutenberg_issued: '2000-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2355'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soils'
+- !lcsh 'Earthworms'
+- !lcsh 'Humification'
+- !lcc 'QH'
+title: "The Formation of Vegetable Mould Through the Action of Worms\r\nWith Observations\
+  \ on Their Habits"
+url: http://www.gutenberg.org/ebooks/2355

@@ -1,5 +1,5 @@
 _repo: The-Formation-of-Vegetable-Mould-Through-the-Action-of-Worms-With-Observations-on-Their-Habits_2355
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 2355-h/images/coverb.jpg
@@ -28,6 +28,7 @@ subjects:
 - !lcsh 'Earthworms'
 - !lcsh 'Humification'
 - !lcc 'QH'
+- GITenberg
 title: "The Formation of Vegetable Mould Through the Action of Worms\r\nWith Observations\
   \ on Their Habits"
 url: http://www.gutenberg.org/ebooks/2355
